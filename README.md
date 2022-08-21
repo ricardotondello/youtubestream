@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ## Run it
 
 ```bash
-python yostream.py
+python ytstream.py
 ```
 
 Provide the info needed and enjoy it
